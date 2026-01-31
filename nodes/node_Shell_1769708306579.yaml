@@ -1,0 +1,6 @@
+{
+  "id": "Shell_1769708306579",
+  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"oc_plan\" id=\"V{*4gDd`#8jgV?M5fsI.\" x=\"130\" y=\"130\"><statement name=\"STEPS\"><block type=\"oc_login\" id=\"}@ljDRrP_{tp;wF?%H+4\"><field name=\"SERVER\">https://api.te01.paas.red.uy:6443</field><field name=\"TOKEN\">sha256~uiLwKah1GDFpniZ-T9ADMM2D3mmAFxs0TELCigacdFw</field><field name=\"INSECURE\">TRUE</field><next><block type=\"oc_project\" id=\"C,Lih56*FZ`zVlhNV;HF\"><field name=\"NS\"> domel2-enotificaciones-dev</field></block></next></block></statement></block></xml>",
+  "display_name": "",
+  "note": ""
+}

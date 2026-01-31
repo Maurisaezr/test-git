@@ -1,0 +1,16 @@
+script.sh: line 12: kind:: command not found
+script.sh: line 13: steps:: command not found
+script.sh: line 15: kind:: command not found
+script.sh: line 16: action:: command not found
+script.sh: line 17: params:: command not found
+script.sh: line 18: server:: command not found
+script.sh: line 19: token:: command not found
+script.sh: line 20: insecure:: command not found
+script.sh: line 22: },: command not found
+script.sh: line 24: kind:: command not found
+script.sh: line 25: action:: command not found
+script.sh: line 26: params:: command not found
+script.sh: line 27: namespace:: command not found
+script.sh: line 30: ]: command not found
+script.sh: line 31: syntax error near unexpected token `}'
+script.sh: line 31: `}'

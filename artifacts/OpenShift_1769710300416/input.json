@@ -1,0 +1,26 @@
+{
+  "executor": "openshift",
+  "mode": "plan",
+  "spec": {
+    "steps": [
+      {
+        "kind": "oc_step",
+        "action": "project",
+        "params": {
+          "namespace": "ddd-int"
+        }
+      },
+      {
+        "kind": "oc_step",
+        "action": "get",
+        "params": {
+          "resource": "pods",
+          "name": "",
+          "selector": "",
+          "output": "wide",
+          "namespace": ""
+        }
+      }
+    ]
+  }
+}

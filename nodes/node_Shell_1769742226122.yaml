@@ -1,0 +1,6 @@
+{
+  "id": "Shell_1769742226122",
+  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"cli_safe_command\" id=\"Ne=QC)wT3LRf4mR;DL|H\" x=\"70\" y=\"-190\"><field name=\"COMMAND\">echo 'Hello'</field><field name=\"ENV\"/><next><block type=\"cli_preset_rabbitmq\" id=\"`yA,^PK6H@n7B|MEu7:+\"><field name=\"ACTION\">list_queues</field><field name=\"IS_EXEC\">FALSE</field><next><block type=\"cli_preset_elasticsearch\" id=\"*iOhB{otD8*UCbsVLN2U\"><field name=\"ACTION\">health</field><field name=\"HOST\">localhost:9200</field></block></next></block></next></block></xml>",
+  "display_name": "",
+  "note": ""
+}

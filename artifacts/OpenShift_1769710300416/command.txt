@@ -1,0 +1,2 @@
+/opt/glibc-2.34/lib/ld-linux-x86-64.so.2 --library-path /opt/glibc-2.34/lib /usr/local/bin/oc login https://api.te01.paas.red.uy:6443 --token=sha256~6feUZt3diGJECcK_KpZVHuvYHl3IxHYW2rUTf9snRMw --insecure-skip-tls-verify=true
+/opt/glibc-2.34/lib/ld-linux-x86-64.so.2 --library-path /opt/glibc-2.34/lib /usr/local/bin/oc get pods
