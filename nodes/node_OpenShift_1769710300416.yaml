@@ -1,6 +1,6 @@
 {
   "id": "OpenShift_1769710300416",
-  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"oc_plan\" id=\"!?w!ei0@uHwyekqd#3-%\" x=\"510\" y=\"-270\"><statement name=\"STEPS\"><block type=\"oc_login\" id=\"US553Y[CA@?1OPS;w0C{\"><field name=\"SERVER\">https://api.te01.paas.red.uy:6443</field><field name=\"TOKEN\">sha256~6feUZt3diGJECcK_KpZVHuvYHl3IxHYW2rUTf9snRMw</field><field name=\"SKIP_TLS\">TRUE</field><next><block type=\"oc_get\" id=\":|/i)$(*i.Y,[nbd6kg=\"><field name=\"TYPE\">pods</field><field name=\"NAME\"/></block></next></block></statement></block></xml>",
+  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"oc_plan\" id=\"!?w!ei0@uHwyekqd#3-%\" x=\"270\" y=\"70\"><statement name=\"STEPS\"><block type=\"oc_login\" id=\"US553Y[CA@?1OPS;w0C{\"><field name=\"SERVER\">https://api.te01.paas.red.uy:6443</field><field name=\"TOKEN\">sha256~6feUZt3diGJECcK_KpZVHuvYHl3IxHYW2rUTf9snRMw</field><field name=\"SKIP_TLS\">TRUE</field><next><block type=\"oc_get\" id=\":|/i)$(*i.Y,[nbd6kg=\"><field name=\"TYPE\">pods</field><field name=\"NAME\"/></block></next></block></statement></block></xml>",
   "display_name": "",
   "note": ""
 }
