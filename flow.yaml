@@ -28,7 +28,8 @@
       "color": "#27ae60",
       "icon": "\ud83d\udcbb",
       "loc": "-2424 143.99999999999997",
-      "display_name": "Shell_269"
+      "display_name": "Shell_269",
+      "status": "failed"
     }
   ],
   "linkDataArray": [
