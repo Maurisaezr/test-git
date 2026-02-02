@@ -1,6 +1,6 @@
 {
   "id": "Docker_1769697468782",
   "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"docker_cmd_plan\" id=\"a5?3UX,{IBj=P}8uw}KM\" x=\"-2190\" y=\"-590\"><field name=\"WORKDIR\">/tmp/flowops</field><field name=\"ENV\"/><field name=\"COLLECT\">true</field><field name=\"DF_NAME\"/><field name=\"DC_NAME\"/><statement name=\"STEPS\"><block type=\"docker_cli_run\" id=\";71ki!*Br?77_WECpC^a\"><field name=\"IMAGE\">cr.jaegertracing.io/jaegertracing/jaeger:2.14.0</field><field name=\"NAME\">jaeger </field><field name=\"DET\">true</field><field name=\"PORTS\"> -p 16686:16686    -p 4317:4317    -p 4318:4318     5778:5778  -p 9411:9411 </field><field name=\"ENV\">TZ=UTC</field><field name=\"VOLS\"/><field name=\"CMD\"/></block></statement></block></xml>",
-  "display_name": "",
+  "display_name": "Deploy_Jaeger",
   "note": ""
 }
