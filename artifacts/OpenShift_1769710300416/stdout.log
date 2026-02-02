@@ -1,18 +1,2 @@
-NAME                                       READY   STATUS    RESTARTS      AGE
-adjuntos-service-545c8746c4-299rl          1/1     Running   0             8d
-akhq-746b89f4b5-xj7qv                      1/1     Running   1 (15d ago)   38d
-apache-kafka-5c949cdfd6-rdnhj              1/1     Running   1 (17d ago)   38d
-apache-zookeeper-5874745c4-s2ts8           1/1     Running   0             38d
-auditoria-service-9c96457dd-mp8xk          1/1     Running   0             31d
-busqueda-service-5754d748db-7cl2b          1/1     Running   0             38d
-domel2-frontend-5dd77bd99-kmmzk            1/1     Running   0             3h13m
-domicilios-service-78949d4d45-4s5q7        1/1     Running   0             10d
-enotificaciones-service-7b959bd96f-r96dh   1/1     Running   0             17d
-eventuate-cdc-service-586794ddfc-lth2t     1/1     Running   0             38d
-firma-service-79b97fdcb7-9cj6h             1/1     Running   0             38d
-integracion-service-69fcbd488-bl2h6        1/1     Running   0             38d
-mail-service-5dd6947f96-97mnw              1/1     Running   0             31d
-novedades-service-85445b86d4-6rg4q         1/1     Running   0             31d
-organismos-service-5556d96dd-9k7g9         1/1     Running   0             10d
-respuestas-service-56c96cdfcc-n9grt        1/1     Running   0             31d
-usuarios-service-6dffd756cf-7gnns          1/1     Running   0             91m
+WARNING: Using insecure TLS client config. Setting this option is not supported!
+
