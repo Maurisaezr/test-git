@@ -1,1 +1,1 @@
-{"action":"ssh_target","params":{"host":"prod_web_01","port":22,"user":"","auth_method":"PASSWORD","cred_ref":"","sudo":false}},
+{"action":"ssh_target","params":{"host":"10.237.132.12","port":22,"user":"root","auth_method":"PASSWORD","cred_ref":"/root/.ssh/id_rsa","sudo":false},"jump":{"enabled":false,"host":"10.241.57.10","port":24022,"user":"msaez","cred_ref":"/root/.ssh/id_rsa.pub","agent_forwarding":false}},
