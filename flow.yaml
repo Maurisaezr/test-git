@@ -17,7 +17,7 @@
       "tooltip": "OpenShift",
       "color": "#444",
       "icon": "\ud83d\udce6",
-      "loc": "-2539 209",
+      "loc": "-2725 124",
       "display_name": "sdsaaaaaaaaaa",
       "status": "success"
     },
@@ -27,7 +27,7 @@
       "tooltip": "Shell",
       "color": "#27ae60",
       "icon": "\ud83d\udcbb",
-      "loc": "-2124 152.99999999999997",
+      "loc": "-2147 152.99999999999997",
       "display_name": "Shell_269"
     }
   ],
