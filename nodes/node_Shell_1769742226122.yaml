@@ -1,6 +1,6 @@
 {
   "id": "Shell_1769742226122",
-  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"cli_safe_command\" id=\"Ne=QC)wT3LRf4mR;DL|H\" x=\"70\" y=\"-190\"><field name=\"COMMAND\">echo 'Hello'</field><field name=\"ENV\"/><next><block type=\"cli_preset_rabbitmq\" id=\"`yA,^PK6H@n7B|MEu7:+\"><field name=\"ACTION\">list_queues</field><field name=\"IS_EXEC\">FALSE</field><next><block type=\"cli_preset_elasticsearch\" id=\"*iOhB{otD8*UCbsVLN2U\"><field name=\"ACTION\">health</field><field name=\"HOST\">localhost:9200</field></block></next></block></next></block></xml>",
+  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"ssh_target\" id=\"sI/2+}ViBmza_6YGjq+x\" x=\"-110\" y=\"-330\"><field name=\"AUTH_METHOD\">PASSWORD</field><field name=\"SUDO\">FALSE</field><value name=\"HOST\"><shadow type=\"text\" id=\"1%p/(baJ*$v/5@Uau%Bw\"><field name=\"TEXT\">prod_web_01</field></shadow></value><value name=\"PORT\"><shadow type=\"math_number\" id=\"Ioc6YG_`j(*/#,nFA8k_\"><field name=\"NUM\">22</field></shadow></value></block></xml>",
   "display_name": "",
   "note": ""
 }
