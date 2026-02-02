@@ -1,3 +1,1 @@
-script.sh: line 11: kind:oc_safe_step,: command not found
-script.sh: line 12: kind:oc_safe_step,: command not found
-script.sh: line 13: kind:oc_safe_step,: command not found
+script.sh: line 11: action:ssh_target,: command not found
