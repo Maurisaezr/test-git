@@ -1,0 +1,6 @@
+{
+  "id": "Shell_1770059684797",
+  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"bash.command\"><field name=\"cmd\"># Nodo sin bloque asignado - doble click para editar</field></block></xml>",
+  "display_name": "Shell_85",
+  "note": "auto-created placeholder"
+}

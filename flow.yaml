@@ -30,6 +30,14 @@
       "loc": "-2424 143.99999999999997",
       "display_name": "Shell_269",
       "status": "success"
+    },
+    {
+      "key": "Shell_1770059684797",
+      "label": "Shell_85",
+      "tooltip": "Shell",
+      "color": "#27ae60",
+      "icon": "\ud83d\udcbb",
+      "loc": "-1427 346"
     }
   ],
   "linkDataArray": [
