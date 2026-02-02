@@ -37,7 +37,8 @@
       "tooltip": "Shell",
       "color": "#27ae60",
       "icon": "\ud83d\udcbb",
-      "loc": "-2561 279"
+      "loc": "-2561 279",
+      "display_name": "Shell_85"
     }
   ],
   "linkDataArray": [
