@@ -1,0 +1,35 @@
+{
+  "class": "GraphLinksModel",
+  "nodeDataArray": [
+    {
+      "key": "Docker_1769697468782",
+      "label": "Deploy_Jaeger",
+      "tooltip": "Docker",
+      "color": "#2980b9",
+      "icon": "\ud83d\udc33",
+      "loc": "-1270.7998657226562 225.99996948242188",
+      "display_name": "Deploy_Jaeger",
+      "status": "failed"
+    },
+    {
+      "key": "OpenShift_1769710300416",
+      "label": "sdsaaaaaaaaaa",
+      "tooltip": "OpenShift",
+      "color": "#444",
+      "icon": "\ud83d\udce6",
+      "loc": "-1957 204",
+      "display_name": "sdsaaaaaaaaaa",
+      "status": "success"
+    },
+    {
+      "key": "Shell_1769742226122",
+      "label": "Shell_269",
+      "tooltip": "Shell",
+      "color": "#27ae60",
+      "icon": "\ud83d\udcbb",
+      "loc": "-1358 320",
+      "display_name": "Shell_269"
+    }
+  ],
+  "linkDataArray": []
+}
