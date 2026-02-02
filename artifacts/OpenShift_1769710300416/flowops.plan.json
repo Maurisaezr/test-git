@@ -1,6 +1,21 @@
 {
   "kind": "oc_plan",
-  "steps": []
+  "version": "1.0",
+  "steps": [
+    {
+      "action": "login",
+      "params": {
+        "server": "https://api.te01.paas.red.uy:6443",
+        "token": "sha256~6feUZt3diGJECcK_KpZVHuvYHl3IxHYW2rUTf9snRMw",
+        "skip_tls": true
+      }
+    },
+    {
+      "action": "get",
+      "params": {
+        "resource": "pods",
+        "name": ""
+      }
+    }
+  ]
 }
-{"action":"login","params":{"server":"https://api.te01.paas.red.uy:6443","token":"sha256~6feUZt3diGJECcK_KpZVHuvYHl3IxHYW2rUTf9snRMw","skip_tls":true}},
-{"action":"get","params":{"resource":"pods","name":""}},
