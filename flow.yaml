@@ -7,7 +7,7 @@
       "tooltip": "Docker",
       "color": "#2980b9",
       "icon": "\ud83d\udc33",
-      "loc": "-2179.7998657226562 148.99996948242188",
+      "loc": "-2097.7998657226562 15.999969482421875",
       "display_name": "Deploy_Jaeger",
       "status": "failed"
     },
@@ -37,7 +37,7 @@
       "tooltip": "Shell",
       "color": "#27ae60",
       "icon": "\ud83d\udcbb",
-      "loc": "-2561 279",
+      "loc": "-2885 304",
       "display_name": "Shell_85"
     }
   ],
