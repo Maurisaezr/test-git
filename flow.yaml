@@ -39,6 +39,15 @@
       "icon": "\ud83d\udcbb",
       "loc": "-2426.199981689453 34.600006103515625",
       "display_name": "Shell_85"
+    },
+    {
+      "key": "Exclusive_1771031977578",
+      "label": "Exclusive_325",
+      "tooltip": "Exclusive",
+      "color": "#f1c40f",
+      "icon": "\ud83d\udca0",
+      "figure": "Diamond",
+      "loc": "-1136.800048828125 -21.600006103515625"
     }
   ],
   "linkDataArray": [
