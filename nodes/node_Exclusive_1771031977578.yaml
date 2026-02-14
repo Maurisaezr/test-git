@@ -1,6 +1,6 @@
 {
   "id": "Exclusive_1771031977578",
-  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"bash.command\"><field name=\"cmd\"># Nodo sin bloque asignado - doble click para editar</field></block></xml>",
+  "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"bash.command\" id=\"Mgpx-n=9FjV@xFX9eDsU\" x=\"10\" y=\"10\"><field name=\"cmd\"># Nodo sin bloque asignado - doble click para editar</field><field name=\"cwd\"/><field name=\"timeout\">0</field><field name=\"fail_on_error\">TRUE</field><field name=\"capture_output\">TRUE</field></block></xml>",
   "display_name": "Exclusive_325",
   "note": "auto-created placeholder"
 }
